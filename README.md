@@ -2,4 +2,4 @@
 🙋🏻‍♀️
 I'm Aparna., Currently in a pursuit of self-discovery and happiness
 <br>
-![](https://komarev.com/ghpvc/?username=apernaah&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=apernaah&color=green&style=for-the-badge)
